@@ -133,7 +133,27 @@ Tabela "product_category_name_translation"
 - Dashboard para visualização dos dados.
 
 ### 3.2. Ferramentas
+**Liguagem de programção:**
+- Python
+**Estatística:**
+- Média, moda, mediana e desvio padrão
+**API:**
+- Kaggle
+**IDE ( Ambiente de Desenvolvimento Integrado ):**
+- Visual Studio Code
+**Visualização de Dados:**
+- Power BI
 
+## 4. Análise Exploratória 
+Nosso objetivo principal com a análise exploratória é entender a estrutura, padrões, relações e características dos dados, que nos forneçam insights iniciais e orientando a direção da análise mais aprofundada, realizada no início do ciclo de vida de um projeto. 
+
+### Objetivos da Análise Exploratória de Dados:
+1. Ter uma visão geral dos dados para identificar padrões e características adversas.
+2. Detectar outliers, valores ausentes e outras irregularidades nos dados.
+3. Explorar relações entre diferentes variáveis, identificando potenciais correlações e padrões.
+4. Compreender a distribuição de cada variável no conjunto de dados.
+5. Calcular estatísticas descritivas, como médias, medianas, desvios padrão, etc.
+6. Utilizar gráficos e visualizações para representar os dados de forma compreensível.
 
 
 
