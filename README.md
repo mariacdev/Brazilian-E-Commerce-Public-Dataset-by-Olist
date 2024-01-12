@@ -148,21 +148,30 @@ Tabela "product_category_name_translation"
 Nosso objetivo principal com a análise exploratória é entender a estrutura, padrões, relações e características dos dados, que nos forneçam insights iniciais e orientando a direção da análise mais aprofundada, realizada no início do ciclo de vida de um projeto. 
 
 ### Objetivos da Análise Exploratória de Dados:
-1. Ter uma visão geral dos dados para identificar padrões e características adversas.
-2. Detectar outliers, valores ausentes e outras irregularidades nos dados.
-3. Explorar relações entre diferentes variáveis, identificando potenciais correlações e padrões.
-4. Compreender a distribuição de cada variável no conjunto de dados.
-5. Calcular estatísticas descritivas, como médias, medianas, desvios padrão, etc.
-6. Utilizar gráficos e visualizações para representar os dados de forma compreensível.
+#### 1. Ter uma visão geral dos dados para identificar padrões e características adversas.
+#### 2. Detectar outliers, valores ausentes e outras irregularidades nos dados.
+#### 3. Explorar relações entre diferentes variáveis, identificando potenciais correlações e padrões.
+#### 4. Compreender a distribuição de cada variável no conjunto de dados.
+#### 5. Calcular estatísticas descritivas, como médias, medianas, desvios padrão, etc.
+#### 6. Utilizar gráficos e visualizações para representar os dados de forma compreensível.
 
-### 1- Analise. A média de vezes que as pessoas parcelaram suas compras com cartão de crédito
-### 2- Análise. O valor do ticket médio gasto, separados por forma de pagamento (debito, credito, boleto, voucher)
-### 3- Análise. Qual região tem maior e menor numero de vendas
-### 4- Análise. Qual a média de produtos por cliente
-### 5- Análise. Qual período é realizado mais vendas (manhã, tarde, noite, madrugada)
-### 6- Análise. Quais categorias de produtos possuem os fretes mais caros e quais possuem os fretes mais baratos
-### 7- Análise. Qual a média do valor do frete por região e dias para entrega
-### 8- Análise. Qual a sazonalidade de vendas
+## Análises:
+
+1- Analise. A média de vezes que as pessoas parcelaram suas compras com cartão de crédito
+
+2- Análise. O valor do ticket médio gasto, separados por forma de pagamento (debito, credito, boleto, voucher)
+
+3- Análise. Qual região tem maior e menor numero de vendas
+
+4- Análise. Qual a média de produtos por cliente
+
+5- Análise. Qual período é realizado mais vendas (manhã, tarde, noite, madrugada)
+
+6- Análise. Quais categorias de produtos possuem os fretes mais caros e quais possuem os fretes mais baratos
+
+7- Análise. Qual a média do valor do frete por região e dias para entrega
+
+8- Análise. Qual a sazonalidade de vendas
 
 ## 6. Conclusão 
 Com o avanço da tecnologia, tornou-se possível coletar, processar e analisar informações de maneira eficiente, proporcionando uma base sólida para a tomada de decisões e a gestão estratégica dos negócios. Os dados, quando organizados e categorizados, oferecem insights valiosos que permitem identificar oportunidades no mercado, compreender o comportamento do cliente e avaliar a concorrência. Nesse contexto, nossas análises revelaram fragilidades e pontos fortes em nosso negócio, fornecendo subsídios para ações estratégicas que prometem resultados a curto, médio e longo prazo. 
