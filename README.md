@@ -1,5 +1,5 @@
 # Projeto de Análise e Visualização de Dados
-### Brazilian E-Commerce Public Dataset by Olist
+### Brazilian E-Commerce by Olist
 ![Untitled](https://github.com/mariacdev/Brazilian-E-Commerce-Public-Dataset-by-Olist/assets/134116444/cbe1fd60-50ec-4d6e-aae4-5efcd7d1997e)
 
 #### Acesse o Dashboard: [Power BI](https://app.powerbi.com/links/9OzcTeS3K-?ctid=e5d658d7-a357-4ac1-a718-5ce049b564e6&pbi_source=linkShare&bookmarkGuid=9a240ece-439d-4249-9461-0e360a141005) 
