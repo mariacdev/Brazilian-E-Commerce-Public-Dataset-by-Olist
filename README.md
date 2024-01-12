@@ -155,7 +155,47 @@ Nosso objetivo principal com a análise exploratória é entender a estrutura, p
 5. Calcular estatísticas descritivas, como médias, medianas, desvios padrão, etc.
 6. Utilizar gráficos e visualizações para representar os dados de forma compreensível.
 
+### 1- Analise. A média de vezes que as pessoas parcelaram suas compras com cartão de crédito
+### 2- Análise. O valor do ticket médio gasto, separados por forma de pagamento (debito, credito, boleto, voucher)
+### 3- Análise. Qual região tem maior e menor numero de vendas
+### 4- Análise. Qual a média de produtos por cliente
+### 5- Análise. Qual período é realizado mais vendas (manhã, tarde, noite, madrugada)
+### 6- Análise. Quais categorias de produtos possuem os fretes mais caros e quais possuem os fretes mais baratos
+### 7- Análise. Qual a média do valor do frete por região e dias para entrega
+### 8- Análise. Qual a sazonalidade de vendas
 
+## 6. Conclusão 
+Com o avanço da tecnologia, tornou-se possível coletar, processar e analisar informações de maneira eficiente, proporcionando uma base sólida para a tomada de decisões e a gestão estratégica dos negócios. Os dados, quando organizados e categorizados, oferecem insights valiosos que permitem identificar oportunidades no mercado, compreender o comportamento do cliente e avaliar a concorrência. Nesse contexto, nossas análises revelaram fragilidades e pontos fortes em nosso negócio, fornecendo subsídios para ações estratégicas que prometem resultados a curto, médio e longo prazo. 
+
+## **Principais insights obtidos:**
+
+### **1.Experiência do Cliente:**
+
+- Análise aprofundada da experiência do cliente, identificando pontos de melhoria e oportunidades para fortalecer o relacionamento com a marca.
+- Utilização de dados para personalizar a comunicação, criando campanhas e ações de marketing direcionadas.
+
+### **2.Categorização de Produtos:**
+
+- Identificação dos produtos mais vendidos por região no Brasil, possibilitando estratégias específicas para cada mercado.
+- Gestão de inventário aprimorada, alinhada com a demanda real de cada região.
+
+### **3.Gestão de Inventário e Logística:**
+
+- Otimização da gestão de inventário e logística com base em dados, visando redução de custos e melhoria na eficiência operacional.
+
+### **4.Meios de Pagamento:**
+
+- Análise dos meios de pagamento mais utilizados, permitindo ajustes na oferta de opções para atender às preferências dos clientes.
+
+### **5.Padrões de Vendas ao Longo do Ano:**
+
+- Identificação de horários e períodos do ano com aumento ou redução nas vendas, possibilitando ações para manter resultados mais consistentes ao longo do tempo.
+
+## **Conclusões e Estratégias Futuras:**
+
+- Implementação de ações operacionais para diminuir a lacuna entre os picos e vales de vendas, resultando em uma receita mais linear ao longo do ano.
+- Foco na obtenção de uma margem financeira saudável, permitindo investimentos estratégicos e negociações vantajosas com fornecedores.
+- Melhoria na experiência logística para reduzir o tempo de entrega e custos de frete, aumentando a competitividade e fortalecendo a fidelidade do cliente. 
 
 
 
