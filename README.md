@@ -1,6 +1,6 @@
 # Projeto de Análise e Visualização de Dados
 ### Brazilian E-Commerce Public Dataset by Olist
-![sales](https://github.com/mariacdev/Projeto-New-York-City-Airbnb-Open-Data/assets/134116444/b1e45c7e-4b60-4fca-9f38-ad99c87eb99d) 
+![Untitled](https://github.com/mariacdev/Brazilian-E-Commerce-Public-Dataset-by-Olist/assets/134116444/cbe1fd60-50ec-4d6e-aae4-5efcd7d1997e)
 
 #### Acesse o Dashboard: [Power BI](https://app.powerbi.com/links/f9X1pwJdoF?ctid=e5d658d7-a357-4ac1-a718-5ce049b564e6&pbi_source=linkShare) 
 
